@@ -1,7 +1,0 @@
-﻿  main.cpp
-F:\WorkCpp\控制台聊天室客户端\main.cpp(23,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
-F:\WorkCpp\控制台聊天室客户端\main.cpp(23,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
-F:\WorkCpp\控制台聊天室客户端\main.cpp(145,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-F:\WorkCpp\控制台聊天室客户端\main.cpp(242,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-F:\WorkCpp\控制台聊天室客户端\main.cpp(276,28): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
-  控制台聊天室客户端.vcxproj -> F:\WorkCpp\控制台聊天室客户端\Debug\控制台聊天室客户端.exe
